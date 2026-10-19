@@ -1,0 +1,20 @@
+{
+  "BUILD_PLAN.md": "c1921c2ab38d6d42ceae7b7c4eaff63c45b6d99c3b641f9aa2dae61656d082a8",
+  "BUILD_STATUS.md": "c71a17cd5418c8b89d7a65ad309dbf721a9fbf5912d4271f4a88cd7b6c975e5e",
+  "DATASET_CARD.md": "f0c96c518025501c4e3d527a237aae29284cbd0f21ff9d8b6fda55b7fc975ef5",
+  "LICENSE": "1bf73f28784cd4d994211834f81bd2afa0436038470771b92dbeecc5e3191937",
+  "README.md": "f8d67cf969bc447e010d1348d68528ca6879ebb3975b150f8977cb26ea76604c",
+  "builder.py": "6bb705fc9193b671ca0e8ba12902849a09afd87da21c1ce09b6c343daf5e24e2",
+  "configs/million_task_plan.json": "a7894ddbbde2534fc5166e61901702420f95eb2faab7e372c0676383c4a99966",
+  "sample_run/exports/evaluation_answers.jsonl": "c11ff9fefc9e3d59e8b2ae5ff18ad22cedade45f3b855ae37d5debdf474b51f2",
+  "sample_run/exports/master.jsonl": "80ee8891f155e970cfa6e988b309b029c6535291948f8377d2a007464618f930",
+  "sample_run/exports/test.jsonl": "399bb8749891667457ac4a336ecb4f2ca2338b0d50c82118a3196ecd06f3b0fd",
+  "sample_run/exports/train.jsonl": "b9453ea9260f411368e74f1deb2aac915ea6fafbab6d7ad412236b01a6541df2",
+  "sample_run/exports/validation.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sample_run/jobs.sqlite": "18cf87ad8a23219b5b04e23ae371ac280f2e7229a20c46e8f0f6f013790211ef",
+  "sample_run/report.json": "0697d2f77c7bdb4eb90a09427ca73159cdc3b503fc33abd476dacda37854efee",
+  "sample_run_output.txt": "f888225ddb24fe6f8891d4d692564d2985caf3fefdd55caf0c9988196cd7ee5a",
+  "seeds.py": "08b1b7ac3a46742891b571722d2ad431a832ba01dd5c692afb15745d6115ae41",
+  "test_results.txt": "04d812316378e1e9a352f2769cd543f92ab3c5ff9345017da87943fbd48eb600",
+  "tests/test_builder.py": "0e72cdda25481dffe0d5cb4fa61ea3c13d8f9310a2e9786955da4fba3bd6db47"
+}

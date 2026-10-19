@@ -1,0 +1,10 @@
+{
+  "target_unique_verified_tasks": 1000000,
+  "implemented_language": "python",
+  "language_targets": {"python": 300000, "javascript": 180000, "typescript": 180000, "java": 120000, "cpp": 100000, "go": 60000, "rust": 40000, "csharp": 20000},
+  "origin_targets": {"real_repository": 450000, "synthetic_mutation": 400000, "original_authored": 150000},
+  "milestones": [1000, 10000, 100000, 1000000],
+  "max_verified_variants_per_family": 10,
+  "release_requires_manual_audit": true,
+  "note": "Roadmap configuration, not an enforced quota scheduler or generated data count."
+}

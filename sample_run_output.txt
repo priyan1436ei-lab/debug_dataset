@@ -1,0 +1,25 @@
+inserted 43
+{
+  "version": "0.1.0",
+  "status_counts": {
+    "rejected": 8,
+    "verified": 35
+  },
+  "export_counts": {
+    "train": 33,
+    "validation": 0,
+    "test": 2,
+    "evaluation_answers": 2,
+    "master": 35
+  },
+  "unique_seed_families": 17,
+  "million_task_target_achieved": false,
+  "limitations": [
+    "Python synthetic pilot only",
+    "Existing assertions, not independent hidden tests",
+    "Structural AST exact dedup only; no identifier-normalized near dedup",
+    "Few seed families: not a reliable generalization benchmark",
+    "No external repositories collected in bundled sample"
+  ],
+  "python": "3.12.14"
+}

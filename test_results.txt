@@ -1,0 +1,33 @@
+test_export_answer_separation (test_builder.PipelineTests.test_export_answer_separation) ... ok
+test_external_import_requires_review (test_builder.PipelineTests.test_external_import_requires_review) ... ok
+test_real_verification_and_rejection (test_builder.PipelineTests.test_real_verification_and_rejection) ... ok
+test_seed_resume_and_split_isolation (test_builder.PipelineTests.test_seed_resume_and_split_isolation) ... ok
+test_timeout (test_builder.PipelineTests.test_timeout) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 1.123s
+
+OK
+{
+  "version": "0.1.0",
+  "status_counts": {
+    "verified": 1
+  },
+  "export_counts": {
+    "train": 0,
+    "validation": 0,
+    "test": 1,
+    "evaluation_answers": 1,
+    "master": 1
+  },
+  "unique_seed_families": 1,
+  "million_task_target_achieved": false,
+  "limitations": [
+    "Python synthetic pilot only",
+    "Existing assertions, not independent hidden tests",
+    "Structural AST exact dedup only; no identifier-normalized near dedup",
+    "Few seed families: not a reliable generalization benchmark",
+    "No external repositories collected in bundled sample"
+  ],
+  "python": "3.12.14"
+}

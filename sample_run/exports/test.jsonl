@@ -1,0 +1,2 @@
+{"id": "78776cdd0d66408e29b07156716603d8d3e07dbf5ae945a8ea212c5cc9006442", "group": "count_negative", "language": "python", "description": "Count strictly negative values.", "code": "def solve(xs):\n    return sum((1 for x in xs if x <= 0))\n"}
+{"id": "854887d6a33b86ee4c28032abf0af360db9e6d9a5a96121cc5ee1e151fa1411f", "group": "count_negative", "language": "python", "description": "Count strictly negative values.", "code": "def solve(xs):\n    return sum((1 for x in xs if x > 0))\n"}
